@@ -1,0 +1,31 @@
+name: 🧋 Generate GitHub Metrics (奶茶簡約風)
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Sandyzhen
+          template: classic
+          config_output: svg
+          config_theme: custom
+          config_base_color: '#F7F1EB'
+          config_title_color: '#6B4F38'
+          config_text_color: '#6B4F38'
+          config_bg_color: '#FFF6E3'
+          config_border_color: '#EED9C4'
+          config_icon_color: '#D9B08C'
+          config_link_color: '#A89F91'
+          config_sections_color: '#F3E6D7'
+          config_lines_color: '#EED9C4'
+          config_rank_color: '#D9B08C'
+          plugin_languages: yes
+          plugin_calendar: yes
+          plugin_topics: yes
+          plugin_activity: yes
+          plugin_projects: yes
