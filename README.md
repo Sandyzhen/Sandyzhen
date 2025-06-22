@@ -1,8 +1,8 @@
 <!-- 專屬奶茶色簡約風 GitHub README -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=f5e0c8&height=180&section=header&text=Sandy%20Chen&fontSize=40&fontColor=604c3e" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sandyzhen/Sandyzhen/main/4.png" alt="Hi I'm Sandy banner" />
+</p>
 
 ### Hi, I'm Sandy 👋 陳榆臻
 
