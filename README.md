@@ -32,7 +32,7 @@
 ⚙️ Used XGBoost, Random Forest, AdaBoost for classification  
 📈 Model evaluation with AUROC and data imbalance strategies
 
-> 🔗 [作品集連結](https://pda.104.com.tw/profile/portfolio/attachment?vno=76eyn9qdd&fileId=upload_1748751767705.pdf)
+🔗 [作品集連結（論文系統）](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22112FJU00506013%22.&searchmode=basic)
 
 
 <p align="center">
